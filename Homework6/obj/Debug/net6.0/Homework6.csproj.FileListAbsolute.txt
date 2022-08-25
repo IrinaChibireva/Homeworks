@@ -1,0 +1,15 @@
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\Lessons\Homeworks\Homework6\bin\Debug\net6.0\Homework6.exe
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\Lessons\Homeworks\Homework6\bin\Debug\net6.0\Homework6.deps.json
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\Lessons\Homeworks\Homework6\bin\Debug\net6.0\Homework6.runtimeconfig.json
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\Lessons\Homeworks\Homework6\bin\Debug\net6.0\Homework6.dll
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\Lessons\Homeworks\Homework6\bin\Debug\net6.0\Homework6.pdb
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\Lessons\Homeworks\Homework6\obj\Debug\net6.0\Homework6.csproj.AssemblyReference.cache
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\Lessons\Homeworks\Homework6\obj\Debug\net6.0\Homework6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\Lessons\Homeworks\Homework6\obj\Debug\net6.0\Homework6.AssemblyInfoInputs.cache
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\Lessons\Homeworks\Homework6\obj\Debug\net6.0\Homework6.AssemblyInfo.cs
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\Lessons\Homeworks\Homework6\obj\Debug\net6.0\Homework6.csproj.CoreCompileInputs.cache
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\Lessons\Homeworks\Homework6\obj\Debug\net6.0\Homework6.dll
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\Lessons\Homeworks\Homework6\obj\Debug\net6.0\refint\Homework6.dll
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\Lessons\Homeworks\Homework6\obj\Debug\net6.0\Homework6.pdb
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\Lessons\Homeworks\Homework6\obj\Debug\net6.0\Homework6.genruntimeconfig.cache
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\Lessons\Homeworks\Homework6\obj\Debug\net6.0\ref\Homework6.dll
